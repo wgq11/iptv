@@ -1,0 +1,3 @@
+echo "*" > .gitignore
+echo "!result.m3u" >> .gitignore
+echo "!result.txt" >> .gitignore
