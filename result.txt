@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-28 06:01:43,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-01-28 11:01:47,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://222.214.208.34:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -16,10 +16,6 @@ CCTV-4,http://23.237.228.134/live5/CCTV4.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5+,http://222.214.208.34:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
-CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
-CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
-CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 CCTV-5+,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
@@ -68,11 +64,11 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
 东南卫视,http://23.237.228.134/live6/dongnan.m3u8
 甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://222.214.208.34:59901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -89,7 +85,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
 内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 山东卫视,http://222.214.208.34:59901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://23.237.228.134/live8/shandong.m3u8
@@ -102,7 +97,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 四川卫视,http://23.237.228.134/live6/sichuan.m3u8
 天津卫视,http://222.214.208.34:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 云南卫视,http://222.214.208.34:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 
