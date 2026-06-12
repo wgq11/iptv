@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-12 06:04:51,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=3
+2026-06-12 11:05:38,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=4
 
 📺央视频道,#genre#
-CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=3
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=4
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=5
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=6
@@ -12,14 +11,8 @@ CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=9
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=10
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=11
 CCTV-1,http://47.97.252.137:8086/tvlive/cctv1hd.m3u8?node=12
-CCTV-1,http://113.241.135.29:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://60.187.244.229:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://1.198.67.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://119.51.63.65:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
-CCTV-2,http://59.32.97.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://182.140.125.47:808/hls/2/index.m3u8
 CCTV-2,http://47.97.252.137:8086/tvlive/cctv2hd.m3u8?node=2
 CCTV-2,http://47.97.252.137:8086/tvlive/cctv2hd.m3u8?node=3
 CCTV-2,http://47.97.252.137:8086/tvlive/cctv2hd.m3u8?node=4
@@ -32,12 +25,13 @@ CCTV-2,http://47.97.252.137:8086/tvlive/cctv2hd.m3u8?node=10
 CCTV-2,http://47.97.252.137:8086/tvlive/cctv2hd.m3u8?node=11
 CCTV-2,http://113.241.135.29:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://113.241.135.29:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://111.8.242.124:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
-CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV-2,http://60.187.247.136:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://106.46.116.203:808/hls/2/index.m3u8
-CCTV-2,http://180.118.187.199:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://60.187.244.229:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://60.187.244.229:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://121.19.134.56:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://1.198.67.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://119.51.63.65:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
 CCTV-3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV-3,http://59.32.97.101:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://182.140.125.47:808/hls/3/index.m3u8
@@ -609,7 +603,6 @@ CCTV-17,http://1.197.249.133:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&
 贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
 贵州卫视,http://119.51.63.65:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://60.10.139.113:8801/hls/26/index.m3u8
-广东卫视,http://119.125.134.135:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://106.46.116.203:808/hls/35/index.m3u8
 广东卫视,http://47.97.252.137:8082/tvlive/gdwshd.m3u8?node=9
 广东卫视,http://47.97.252.137:8082/tvlive/gdwshd.m3u8?node=12
@@ -628,6 +621,7 @@ CCTV-17,http://1.197.249.133:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&
 广东卫视,http://125.42.151.148:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
 广东卫视,http://106.46.119.40:808/hls/35/index.m3u8
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 海南卫视,http://59.32.97.101:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://47.97.252.137:8082/tvlive/lywshd.m3u8?node=2
 海南卫视,http://47.97.252.137:8082/tvlive/lywshd.m3u8?node=3
